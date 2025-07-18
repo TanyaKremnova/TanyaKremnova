@@ -1,10 +1,10 @@
-# Hi, I'm Tetiana 👋
+## Hi, I'm Tanya 👋
 
-🎓 Student at Codam
-🖥️ Writing in C, learning Linux internals
-🔧 Projects: minishell, custom CLI tools, low-level experiments
-📚 Currently reading: Grokking Algorithms & CS Distilled
-📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tanyakremnova/)
+🎓 Student at Codam  
+🖥️ Writing in C, learning Linux internals  
+🔧 Projects: minishell, custom CLI tools, low-level experiments  
+📚 Currently reading: Grokking Algorithms  
+📫 My [LinkedIn](https://www.linkedin.com/in/tanyakremnova/)  
 
 🌱 Open to collaboration and internships!
 
