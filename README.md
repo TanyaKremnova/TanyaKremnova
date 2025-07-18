@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @TanyaKremnova
-- 👀 I’m interested in code and design
-- 🌱 I’m currently learning C language in Codam college
-- 💞️ Looking for a mentor and friends who are interested in coding
-- 📫 How to reach me [...](https://www.linkedin.com/in/tanyakremnova/)
-- ⚡ Fun fact: Magenta doesn’t exist 
+# Hi, I'm Tetiana 👋
+
+🎓 Student at Codam
+🖥️ Writing in C, learning Linux internals
+🔧 Projects: minishell, custom CLI tools, low-level experiments
+📚 Currently reading: Grokking Algorithms & CS Distilled
+📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tanyakremnova/)
+
+🌱 Open to collaboration and internships!
 
 <!---
 TanyaKremnova/TanyaKremnova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
