@@ -5,6 +5,7 @@
 🔧 Projects:
 - [**URL Shortener**](https://github.com/TanyaKremnova/url-shortener) — REST API with auth, caching, load balancing (Go, Gin, PostgreSQL, Nginx, Docker Compose)
 - [**Webserv**](https://github.com/TanyaKremnova/webserv) — HTTP/1.1 web server (C++, non-blocking I/O, concurrent connections)
+- [**Inception**](https://github.com/TanyaKremnova/inception) — Docker-based infrastructure with NGINX, WordPress, and MariaDB
 - [**Minishell**](https://github.com/TanyaKremnova/minishell) — Unix shell implementation (C, AST parser, pipes, redirections)
 - **Cub3D** — 3D raycasting game engine (C, MLX42, DDA algorithm)
 - [**FDF**](https://github.com/TanyaKremnova/fdf) — 3D wireframe renderer (C, isometric projection, transformations)
