@@ -8,6 +8,7 @@
 - [**URL Shortener**](https://github.com/TanyaKremnova/url-shortener) — REST API with auth, caching, load balancing (Go, Gin, PostgreSQL, Nginx, Docker Compose)
 - [**Webserv**](https://github.com/TanyaKremnova/webserv) — HTTP/1.1 web server (C++, non-blocking I/O, concurrent connections)
 - [**Inception**](https://github.com/TanyaKremnova/inception) — Docker-based infrastructure (NGINX, WordPress, MariaDB, volumes, networking)
+- [**Philosophers**](https://github.com/TanyaKremnova/philosophers) — Dining Philosophers simulation with threads & mutexes (C, pthreads, deadlock/starvation avoidance)
 - [**Minishell**](https://github.com/TanyaKremnova/minishell) — Unix shell implementation (C, AST parser, pipes, redirections)
 - [**Cub3D**](https://github.com/TanyaKremnova/cub3d) — 3D raycasting game engine (C, MLX42, DDA algorithm)
 - [**FDF**](https://github.com/TanyaKremnova/fdf) — 3D wireframe renderer (C, isometric projection, transformations)
