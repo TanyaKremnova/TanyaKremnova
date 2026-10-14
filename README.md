@@ -1,9 +1,9 @@
 ## Hi, I'm Tetiana(Tanya) 👋
 
-🎓 Software Engineering student at Codam (42 Network)
-🛠️ Backend & product engineering: Go, REST APIs, databases, TypeScript
-🌐 Full-stack experience with React, Node.js, PostgreSQL, and WebSockets
-💻 Systems programming: C, C++, Linux/Unix, networking, Docker
+🎓 Software Engineering student at Codam (42 Network)  
+🛠️ Backend & product engineering: Go, REST APIs, databases, TypeScript  
+🌐 Full-stack experience with React, Node.js, PostgreSQL, and WebSockets  
+💻 Systems programming: C, C++, Linux/Unix, networking, Docker  
 
 I enjoy building software end to end — from understanding the problem and designing an API to implementing features, testing, and improving performance.
 
